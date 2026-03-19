@@ -1,2 +1,2 @@
 ## 🛡️Antonio Gustavo
-**`Analsta de SOC Jr.`**
+**`Analsta de segurança da informação Jr.`**
