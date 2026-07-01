@@ -6,7 +6,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** em transição de 
 
 ### No que estou focado no momento:
 -  **Defesa Cibernética:** Especializando-me em monitoramento SIEM (Splunk) e análise de logs.
--  **Automação:** Desenvolvendo scripts em **Python** e **PowerShell** para otimização de processos de segurança.
 -  **Projetos:** Construindo laboratórios práticos para simular cenários reais de detecção e resposta a incidentes.
 
 ---
